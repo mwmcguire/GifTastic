@@ -1,2 +1,12 @@
 # GifTastic
-Bootcamp assignment week 6 / Dynamic web page that populates with gifs
+
+### UNC Bootcamp Assignment 6:
+Dynamic web page that populates with gifs
+
+
+### Built with:
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+* AJAX
