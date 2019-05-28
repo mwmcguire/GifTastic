@@ -2,7 +2,7 @@ $(document).ready(function () {
 
     // Array of topics: Sports
     var topics = ["basketball", "baseball", "football", "soccer", "badminton", "bowling", "tennis", "golf"]
-
+    // var topicsID = [1, 2, 3, 4, 5, 6, 7, 8];
 
     // Create buttons and display to page
     var btnGroup = $(".btn-group");
@@ -14,6 +14,7 @@ $(document).ready(function () {
             btn = $("<button type='button'>");
             btn.addClass("btn btn-outline-primary mr-2");
             btn.attr("data-name", topics[i]);
+        //  btn.attr("id", topicsID[j] );
             btn.text(topics[i]);
             btnGroup.append(btn);
         }
