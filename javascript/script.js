@@ -32,7 +32,7 @@ $(document).ready(function () {
  
         // Grab value from clicked button
         var sport = $(this).attr("data-name"); 
-        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + sport + "&api_key=co7e2mX0LyH2efA0LWUovJqJsMJYTQtA&limit=5";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + sport + "&api_key=co7e2mX0LyH2efA0LWUovJqJsMJYTQtA&limit=5";
 
         $.ajax({
             url: queryURL,
