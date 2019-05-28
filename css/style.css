@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #428bca;
+}
+
+.main-container {
+    width: 95%;
+    min-height: 800px;
+    margin: 0 auto;
+    background: #FFFFFF;
+}
+
+.btn-group {
+    width: 100%;
+    margin: 0 auto;
+    border-bottom: #428bca 2px solid;
+    margin-bottom: 10px;
+    padding: 10px;
+}
