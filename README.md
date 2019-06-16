@@ -1,5 +1,5 @@
 # GifTastic:
-https://mwmcguire.github.io/GifTastic/index.html
+https://mwmcguire.github.io/gif-tastic/index.html
 
 
 ### UNC Bootcamp Assignment 6:
